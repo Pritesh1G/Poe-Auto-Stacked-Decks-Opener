@@ -1,4 +1,4 @@
-# Poe Auto Stacked Decks Opener
+# Poe Auto Stacked Decks Opener (One-Click)
 
 Effortlessly open Stacked Decks in Path of Exile using this AutoHotkey script. Ideal for players who want a fast, repeatable, and hands-free method of clicking and dropping Stacked Decks on the ground to reveal Divination Cards.
 
