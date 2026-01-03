@@ -1,3 +1,6 @@
+Edit: Well GGG has added the functionality in game now, so this ahk is pretty much useless now. 
+To auto-open Stacked Decks post update, hold Ctrl + Right-Click on them to open decks continuously into your inventory, with chat notifications. For dropping cards on the ground (to use a strict loot filter), hold Shift + Ctrl + Right-Click, or use Shift + Right-Click for just dropping them
+
 # Poe Auto Stacked Decks Opener (One-Click)
 
 Effortlessly open Stacked Decks in Path of Exile using this AutoHotkey script. Ideal for players who want a fast, repeatable, and hands-free method of clicking and dropping Stacked Decks on the ground to reveal Divination Cards.
